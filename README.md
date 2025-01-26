@@ -6,7 +6,7 @@ I'm a mobile and web  Application Developer, Backend Developer. I'm currently wo
 - 📫 How to reach me: [o.alsalam992@gmail.com](mailto://o.alsalam992@gmail.com)
 
 ## ⚡ Technologies
-- Front-end development using **HTML, Javascript,Reactjs, CSS, Bootstrap, Flutter**.
+- Front-end development using **HTML, Javascript,Angular, CSS, Bootstrap, Flutter**.
 - Backend development using **Java, PHP, Laravel**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
